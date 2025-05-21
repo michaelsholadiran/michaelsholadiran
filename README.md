@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://michaelsholadiran.github.io/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast;Performance+Optimization;Detail-Oriented+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Clean+Code;Performance+Optimization;Detail-Oriented+Developer" alt="Typing SVG" />
   </a>
 </p>
 
