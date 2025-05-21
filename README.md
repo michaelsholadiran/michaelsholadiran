@@ -54,24 +54,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-[![Achievements](https://github-profile-trophy.vercel.app/?username=michaelsholadiran&theme=radical&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Certifications**  
-<img src="https://img.shields.io/badge/React_Certified-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Laravel_Certified-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-**Hackathons**  
-🥇 1st Place - TechInnovate 2023  
-🥈 2nd Place - CodeFest Africa 2022
-
-</div>
-
----
-
 ### 📊 Live GitHub Stats
 
 <div align="center">
