@@ -54,15 +54,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live GitHub Stats
 
 <div align="center">
   
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsholadiran&show_icons=true&theme=radical&hide_border=true)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelsholadiran&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michaelsholadiran&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaelsholadiran&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsholadiran&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsholadiran&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
