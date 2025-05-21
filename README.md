@@ -58,21 +58,21 @@
 
 <div align="center">
   
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsholadiran&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsholadiran&show_icons=true&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michaelsholadiran&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaelsholadiran&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsholadiran&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsholadiran&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=michaelsholadiran&theme=radical&row=2&column=3&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michaelsholadiran&theme=radical&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -80,16 +80,5 @@
 
 ### 📍 Location
 <p align="center">
-  <img src="https://img.shields.io/badge/Lagos-Nigeria-052D3F?style=flat-square" />
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelsholadiran&label=Profile%20views&color=0e75b6&style=flat" alt="michaelsholadiran" /> 
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=michaelsholadiran&icon=5&color=1" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Lagos-Nigeria-052D3F?style=flat-square&logo=google-maps" />
 </p>
