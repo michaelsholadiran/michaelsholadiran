@@ -14,8 +14,8 @@
   <a href="mailto:sholadiranmichael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:08071810339">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  <a href="https://michaelsholadiran.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -63,16 +63,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=michaelsholadiran&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsholadiran&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaelsholadiran&theme=radical&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
